@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Biology with a computing certificate
 - 💞️ I’m looking to collaborate on any projects data science related or computer related
 - 📫 How to reach me: minhnhutpham1982@yahoo.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a rubiks cube
 
 <!---
